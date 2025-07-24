@@ -1,0 +1,1 @@
+# Store-Management-System-using-Tkinter-Python-GUI-
